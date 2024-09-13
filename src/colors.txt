@@ -1,0 +1,16 @@
+B
+W
+R
+P
+G
+Y
+O
+C
+Black
+White
+Red
+Purple
+Green
+Yellow
+Orange
+Cyan
