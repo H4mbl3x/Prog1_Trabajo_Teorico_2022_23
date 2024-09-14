@@ -16,4 +16,4 @@ Componentes
 
     ./doc -> Directorio con la Guía del Trabajo Teórico, el Listado de Problemas y la Memoria del Trabajo Teórico
     
-    ./src -> Directorio con el código fuente del Trabajo Teórico (fichero .java)
+    ./src -> Directorio con el código fuente del Trabajo Teórico (fichero .java) y el Fichero con los Códigos de Colores (fichero .txt)
